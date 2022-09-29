@@ -5,9 +5,9 @@ body,html{
 
 body{
     background-image:url(image/HD-wallpaper-texture-pattern-red-metal-digital-art-abstract.jpg);
-    object-fit:fill;
+    /* object-fit:fill; */
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:cover;
 
 }
 /* .navbar-2{
@@ -107,10 +107,11 @@ body{
         margin-top: 40px;
         border-radius: 60px;
         border: none;
-        color: rgb(107, 91, 19);
+        color: rgb(204, 181, 81);
         font-family: 'Irish Grover' ;
         background-color: black;
         font-size: 20px;
+        cursor: pointer;
     }
 .container form{
     /* background-color: #F6A8BB; */
